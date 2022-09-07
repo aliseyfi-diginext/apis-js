@@ -1,0 +1,12 @@
+#result {
+    display: none;
+}
+
+#people {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.person {
+    margin: 25px;
+}
